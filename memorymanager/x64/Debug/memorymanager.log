@@ -1,0 +1,10 @@
+﻿  GlobalManager.cpp
+  Hash.cpp
+  main.cpp
+C:\Users\faid_\source\repos\memorymanager\memorymanager\main.cpp(88,10): warning C4129: 'G': unrecognized character escape sequence
+  MemoryBlock.cpp
+  MemoryHelper.cpp
+  MemoryManager.cpp
+  MemoryPool.cpp
+  Generating Code...
+  memorymanager.vcxproj -> C:\Users\faid_\source\repos\memorymanager\x64\Debug\memorymanager.exe
